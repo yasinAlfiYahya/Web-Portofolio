@@ -9,6 +9,12 @@ h1{
     color: #f2f2f2;
 }
 
+.download{
+    color: #2608d3;
+    text-decoration: underline;
+}
+
+
 body{
     background-color: #141432;
 }
