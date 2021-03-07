@@ -24,14 +24,14 @@
                         <a href="asked.html" class="header-choice">Ask Me</a>
                         <a href="About Me.html" class="header-choice">About Me</a>
                         <a href="My Project.html" class="header-choice">My Project</a>
-                        <a class="header-choice">Contact Me</a>
+                        <a href="error.html" class="header-choice">Contact Me</a>
                     </nav>
 
                     <div class="hidden lg:inline-flex">
                         <h3 >Mau tahu lebih banyak?</h3>
                         <button class="inline-flex text-white text-lg leading-7 py-3 px-8 rounded-xl focus:outline-none box-shadow-header-2-3  font-semibold"
                         id = "button-sign-up">
-                            <a href="BuatAkun.html">Join</a>
+                            <a href="error.html">Join</a>
                         </button>
                     </div>
 
