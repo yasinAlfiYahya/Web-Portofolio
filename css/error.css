@@ -1,0 +1,56 @@
+.gambar{
+    height: 40%;
+    width: 40%;
+    margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) { 
+    @media (min-width: 768px) { 
+        section{
+            height: 100%;
+            width: 100%;
+            box-sizing: border-box;
+            padding-left: 6rem;
+            padding-right: 6rem; 
+            padding-left: 4rem;
+            padding-right: 4rem;
+            padding-left: 2rem;
+            padding-right: 2rem;
+            --tw-bg-opacity: 1;
+            background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
+        }
+    }
+}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+h1{
+    margin-bottom: 1.25rem;
+    font-weight: 600;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    color: #272E35;
+}
+
+.teks{
+    width: 100%;
+    text-align: center;
+}
+
+.konten{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: #141432;
+}
+
+p{
+    line-height: 1.75rem;
+    letter-spacing: 0.025em;
+    margin-bottom: 3.5rem;
+}
